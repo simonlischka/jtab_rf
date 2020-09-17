@@ -28,9 +28,8 @@
  * the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
  */
 
-//
-// define the jtab class
-//
+var _ = require('underscore');
+var Raphael = require('raphael');
 
 var jtab = {
   Version : '1.3.1',
@@ -1013,3 +1012,9 @@ jtab.init = function() {
 jQuery(document).ready(function($) {
   jtab.init();
 });
+
+if(typeof window != "undefined") {
+  window.jtab = jtab;
+}
+
+module.exports = jtab

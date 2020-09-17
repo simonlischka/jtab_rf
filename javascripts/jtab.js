@@ -30,6 +30,7 @@
 
 var _ = require('underscore');
 var Raphael = require('raphael');
+var jQuery = require('jquery');
 
 var jtab = {
   Version : '1.3.1',

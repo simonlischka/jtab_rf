@@ -16,6 +16,7 @@
     "url": "https://github.com/simonlischka/jtab/issues"
   },
   "dependencies": {
+    "jquery": "^3.5.1",
     "raphael": "^2.2.7",
     "underscore": "^1.8.3"
   },

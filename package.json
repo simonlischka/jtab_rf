@@ -2,7 +2,7 @@
   "name": "jtab",
   "version": "1.0.0",
   "description": "jTab.rf - refactored version of the jTab library",
-  "main": "javascripts/jtab.js",
+  "main": "lib/jtab.js",
   "scripts": {
     "test": "jest"
   },

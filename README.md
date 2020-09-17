@@ -1,29 +1,13 @@
-# jTab - Guitar Chord and Tab Library
+# jTabRF - Guitar Chord and Tab Library
 
-this is the source repository for the jTab Javascript library.
-
-See [jTab](http://jtab.tardate.com/) for more info..
-
-
-## Hosting
-
-I'm using GitHub Pages to host [jtab.tardate.com](http://jtab.tardate.com) directly from the GitHub repository.
-
-How does that work? GitHub Pages basically serves whatever you commit to the repo.
-For static HTML sites, that means simply adding an `index.html` to the root of the repo.
-
-GitHub now allows you to select the branch from which GitHub Pages are built.
-I've chosen to serve directly from the master branch.
-
-To host on a custom URL, just two steps:
-
-* in DNS, configure a CNAME to point to <username>.github.io
-* add a CNAME file to the repo root with the matching CNAME in DNS (GitHub does this for you automatically if you add the custom url in the web interface)
-
+This is a fork of the jTab Javascript library (See [jTab](http://jtab.tardate.com/) for more info).
+RF stands for refactor. For the record: the original library is aussumn! While fixing a bug I noticed that 
+there's some range for refactoring and testing this library and improving the code quality.
+This is the place to go for radical changes that make reading and maintining the code easier.
 
 ## Contributing
 
-1. Fork it ( https://github.com/tardate/fretboard_web/fork )
+1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

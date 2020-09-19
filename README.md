@@ -31,7 +31,7 @@ This is the place to go for radical changes that make reading and maintining the
 - typescript types or entire project to typescript
 - react component to easily use this
 
-### Notes on tdentity change 
+### Notes on identity change 
 - Actual tab rendering has a big player with AlphaTab, but simple and minimalistic chord rendering/library could be the place to be with this library
 - Focus may be on chords and intervals in chord diagram
 - Name change to something like gChord.js or even more provocatively alphaChord

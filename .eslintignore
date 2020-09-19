@@ -1,0 +1,3 @@
+**/*.test.js
+.eslintrc.js
+jest.config.js

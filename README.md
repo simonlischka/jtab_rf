@@ -1,16 +1,15 @@
 # jTabRF - Guitar Chord and Tab Library
 
-This is a fork of the jTab Javascript library. Check out 
-    [jTab](http://jtab.tardate.com/ for original documentation and 
-    [jTab original Github Repo](https://github.com/tardate/jtab
+This is a fork of the jTab Javascript library. Check out
+[jTab](http://jtab.tardate.com/ for original documentation and
+[jTab original Github Repo](https://github.com/tardate/jtab
 
-RF stands for refactor. For the record: the original library is aussumn! While fixing a bug I noticed that 
+RF stands for refactor. For the record: the original library is aussumn! While fixing a bug I noticed that
 there's some range for refactoring and testing this library and improving the code quality.
 
 This is the place to go for radical changes that make reading and maintining the code easier.
 I will PR the original project, if nothing happens there maybe this version will evolve.
 Let's keep guitar tab rendering alive.
-
 
 ## Contributing
 

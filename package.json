@@ -1,6 +1,6 @@
 {
   "name": "jtab",
-  "version": "0.0.1",
+  "version": "0.1.0-beta",
   "description": "jTab.rf - refactored version of the jTab library",
   "main": "lib/jtab.js",
   "scripts": {

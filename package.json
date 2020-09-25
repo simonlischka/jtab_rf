@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simonlischka/jtab.git"
+    "url": "git+https://github.com/simonlischka/jtab_rf.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/simonlischka/jtab/issues"
+    "url": "https://github.com/simonlischka/jtab_rf/issues"
   },
   "dependencies": {
     "jquery": "^3.5.1",
     "raphael": "^2.2.7",
     "underscore": "^1.8.3"
   },
-  "homepage": "https://github.com/simonlischka/jtab#readme",
+  "homepage": "https://github.com/simonlischka/jtab_rf#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.11.5",
     "babel-jest": "^26.3.0",
